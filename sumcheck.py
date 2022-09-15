@@ -48,6 +48,6 @@ for i in range(0,10):
                           countmatch+=1
 
 
-print count, countmatch
+print count, countmatch/8.
 
   
